@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">GridView</string>
+
+
+    <string-array name="name_text">
+        <item>আল্লাহু</item>
+        <item>আর-রহমান</item>
+        <item>আর রাহীম</item>
+        <item>আল-মালিকু</item>
+        <item>আল-কুদ্দূসু</item>
+        <item>আস-সালামু</item>
+        <item>আল-মু’মিনু</item>
+        <item>আল-মুহাইমিনু </item>
+        <item>আল-আযীযু</item>
+        <item>আল-জাব্বারু</item>
+        <item>আল-খালিকু </item>
+        <item>আল-বারি</item>
+        <item>আল-গফফারু</item>
+        <item>আল-কাহ্‌হারু</item>
+        <item>আর-রজ্জাক</item>
+        <item>আল-মুয়িজ্জিব</item>
+        <item>আল-আলীম</item>
+        <item>আল-বাসিতু </item>
+
+    </string-array>
+
+    <string-array name="name_meaning">
+
+        <item>যিনি ব্যতীত আর\nকোন ইলাহ নেই</item>
+        <item>অত্যন্ত করুনাময়</item>
+        <item>পরম করুণাময়</item>
+        <item>স্বত্বাধিকারী</item>
+        <item>মহাপবিত্র</item>
+        <item>অধিক শান্তিদাতা</item>
+        <item>নিরাপত্তাদানকারী</item>
+        <item>চিরসাক্ষী</item>
+        <item>মহাপরাক্রমশালী</item>
+        <item>মহাশক্তিধর</item>
+        <item>সৃষ্টিকর্তা</item>
+        <item>সৃজনকর্তা</item>
+        <item>ক্ষমাকারী</item>
+        <item>শাস্তিদাতা</item>
+        <item>রিযিকদাতা</item>
+        <item>সম্মানপ্রদানকারী</item>
+        <item>সর্বজ্ঞানী, সর্বদর্শী</item>
+        <item>সম্প্রসারণকারী</item>
+
+    </string-array>
+
+
+
+</resources>
